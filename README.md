@@ -1,3 +1,3 @@
-# my-recipes
+# odin-recipes
 
 web app for recipes 🙂
